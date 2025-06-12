@@ -1,0 +1,11 @@
+[workspace]
+
+[programs.localnet]
+analytics_rewards = "11111111111111111111111111111112"
+
+[registry]
+url = "https://api.apr.dev"
+
+[provider]
+cluster = "localnet"
+wallet = "~/.config/solana/id.json"

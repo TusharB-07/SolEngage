@@ -1,0 +1,9 @@
+{
+  "json_rpc_url": "https://api.mainnet-beta.solana.com",
+  "websocket_url": "wss://api.mainnet-beta.solana.com/",
+  "keypair_path": "~/.config/solana/id.json",
+  "address_labels": {
+    "11111111111111111111111111111111": "System Program"
+  },
+  "commitment": "confirmed"
+}
